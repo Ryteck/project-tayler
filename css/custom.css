@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/wall.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.opaca {
+
+	opacity: 0.75;
+
+}
