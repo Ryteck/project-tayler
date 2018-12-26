@@ -119,17 +119,6 @@ Sem conta? <br><br> Clique no botão <br> abaixo para cadastrar:<br><br>
 
     <br><br>
 
-    <div class="row">
-
-        <div class="carousel carousel-slider">
-          <a class="carousel-item" href="#one!"><img src="../img/carrossel_1.jpg"></a>
-          <a class="carousel-item" href="#two!"><img src="../img/carrossel_2.jpg"></a>
-          <a class="carousel-item" href="#three!"><img src="../img/carrossel_3.jpg"></a>
-          <a class="carousel-item" href="#four!"><img src="../img/carrossel_4.jpg"></a>
-        </div>
-
-    </div>
-
   </div>
 
   <script type="text/javascript" src="../js/jquery.js"></script>
@@ -138,10 +127,6 @@ Sem conta? <br><br> Clique no botão <br> abaixo para cadastrar:<br><br>
   <script type="text/javascript" src="../js/materialize.js"></script>
 
   <script>
-
-    $(document).ready(function(){
-    $('.carousel').carousel();
-  });
 
     $(document).ready(function(){
     $('.sidenav').sidenav();

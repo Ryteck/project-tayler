@@ -143,16 +143,6 @@ $cadastrar = false;
         </form>
       </div>
 
-      <div class="row">
-
-<label>
-<h6><span>
-Ja possui conta?<br><br> Clique no botão <br> abaixo para logar:<br><br>
-</span></h6>
-</label>    
-<a href="usuario/pagina_usuario.php"><button type="button" class="btn">Logar</button></a>
-</div>
-
  </div>
 
 
