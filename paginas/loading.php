@@ -1,5 +1,4 @@
 <?php
-include '../cconexao/Conexao.php';
 
 ?>
 <!DOCTYPE html>
@@ -8,7 +7,7 @@ include '../cconexao/Conexao.php';
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Loading</title>
+    <title>LOADING</title>
     <link rel="stylesheet" type="text/css" href="../css/custom.css">
     <link rel="stylesheet" type="text/css" href="../css/loading.css">
     <link rel = "shortcut icon" type = "imagem/x-icon" href = "../img/ico.ico"/>

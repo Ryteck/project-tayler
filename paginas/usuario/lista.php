@@ -7,10 +7,10 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>TERMOS</title>
-    <link rel="stylesheet" type="text/css" href="../css/custom.css">
-    <link rel="stylesheet" type="text/css" href="../css/materialize.css">
-    <link rel = "shortcut icon" type = "imagem/x-icon" href = "../img/ico.ico"/>
+    <title>LISTA DE AMIGOS</title>
+    <link rel="stylesheet" type="text/css" href="../../css/custom.css">
+    <link rel="stylesheet" type="text/css" href="../../css/materialize.css">
+    <link rel = "shortcut icon" type = "imagem/x-icon" href = "../../img/ico.ico"/>
 
 </head>
 

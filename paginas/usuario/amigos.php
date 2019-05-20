@@ -8,10 +8,10 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>HOME</title>
-  <link rel="stylesheet" type="text/css" href="../css/custom.css">
-  <link rel="stylesheet" type="text/css" href="../css/materialize.css">
-  <link rel="shortcut icon" type="imagem/x-icon" href="../img/ico.ico" />
+  <title>AMIGOS</title>
+  <link rel="stylesheet" type="text/css" href="../../css/custom.css">
+  <link rel="stylesheet" type="text/css" href="../../css/materialize.css">
+  <link rel="shortcut icon" type="imagem/x-icon" href="../../img/ico.ico" />
 
 </head>
 
@@ -19,7 +19,7 @@
 
   <nav class="nav-extended">
     <div class="nav-wrapper">
-      <a href="#" class="brand-logo center">CHAT GLOBAL</a>
+      <a href="../home.php" class="brand-logo center">CHAT GLOBAL</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li class="active"><a href="home.php">Home</a></li>
         <li><a href="termos.php">Termos</a></li>
@@ -173,8 +173,6 @@
 
 
 
-<hr style='color: #ffffff'>
-
 <div class="row">
 
         <form class="col s12" action="" method="POST">
@@ -194,16 +192,18 @@
            <div class="row">
 
           <div class="file-field input-field">
-      <div class="btn">
-        <span>Arquivo</span>
-        <input type="file" multiple>
-      </div>
-      <div class="file-path-wrapper">
-        <input class="file-path validate" type="text" placeholder="Envie um ou mais arquivos" name="mensagem" style='color: #ffffff'>
-      </div>
-    </div>
+              <div class="btn">
+                <span>Fotos</span>
+                <input type="file">
+              </div>
+              <div class="file-path-wrapper">
+                <input class="file-path validate" name="arquivo" type="text" style='color: #ffffff'>
+              </div>
+            </div>
 
           </div>
+
+          <br><br>
 
           <div class="row">
 
